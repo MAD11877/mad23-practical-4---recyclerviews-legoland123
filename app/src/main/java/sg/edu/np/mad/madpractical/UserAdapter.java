@@ -1,4 +1,4 @@
-package sg.edu.np.mad.madpracticalweek2;
+package sg.edu.np.mad.madpractical;
 
 import android.content.Context;
 import android.content.DialogInterface;
